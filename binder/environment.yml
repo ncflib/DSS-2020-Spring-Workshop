@@ -1,4 +1,6 @@
+name: DSS-2020-Spring-Workshops
 dependencies:
+  - python==3.7
   - matplotlib
-  - numpy
-  - pandas
+  - nltk
+  - cartopy
