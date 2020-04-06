@@ -1,11 +1,12 @@
 name: DSS-2020-Spring-Workshops
 
-pip: 
-  - textify
-  
+channels:
+  - conda-forge
 dependencies:
   - python==3.7
   - matplotlib
   - nltk
   - cartopy
-  - textify
+  - pip
+  - pip:
+    - textify
