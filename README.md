@@ -1,5 +1,5 @@
 # Digital Scholarship Studio Spring 2020 Workshop
- [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/r_with_python/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncflib/DSS-2020-Spring-Workshop/master)
  
 ## Start
 
