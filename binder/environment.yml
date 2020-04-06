@@ -1,4 +1,8 @@
 name: DSS-2020-Spring-Workshops
+
+pip: 
+  - textify
+  
 dependencies:
   - python==3.7
   - matplotlib
