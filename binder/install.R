@@ -1,7 +1,10 @@
 ### install regular packages
 
+install.packages("tidytext")
 install.packages("reticulate") # python support in RMarkdown
 install.packages("ggplot2") # for plotting
+install.packages("dplyr")
+install.packages("textclean")
 install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 
 ### install bioconductor packages
