@@ -15,4 +15,4 @@ After you've successfully completed the Python notebook, head over to the comple
 
 ### Video support
 
-We have recorded a walkthrough of these lessons for your convenience. Check that out here: https://drive.google.com/file/d/1EU-a1XYVbWusAxlWuWACt8C-cbUhbXHr/view
+We have recorded a walkthrough of these lessons for your convenience. Check that out here: https://drive.google.com/file/d/1hzBUb52xP41W3Qy5axcyLMc7h05HBWcI/view?usp=sharing
